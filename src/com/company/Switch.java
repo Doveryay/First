@@ -8,6 +8,6 @@ public class Switch {
 
         System.out.println("no no no");
         System.out.println("Ну нет");
-        System.out.println("Ну да");
+        System.out.println("Ну может быть");
     }
 }
